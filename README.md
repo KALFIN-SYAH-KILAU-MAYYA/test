@@ -7,4 +7,3 @@
 * test from colabolator natasha1970
 * test 2 from colabolator natasha1970 (from branch test-3)
 * test 3 from KALFIN-SYAH-KILAU-MAYYA
-* DONT DELETE THIS
